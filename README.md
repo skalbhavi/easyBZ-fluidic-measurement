@@ -1,11 +1,1 @@
-# serialplot
-A python application that plots serial data in real time. Useful for visualizing data from microcontrollers. Originally written for Windows, others have used on linux. See it in action here: https://www.youtube.com/watch?v=FdZKBGY49SI
-
-![alt tag](https://raw.githubusercontent.com/crxguy52/serialplot/master/screenshot.png)
-
-#Requirements
-Python - serialplot is written so that it can be run with py2 or py3. However, there are some issues with matplotlib and py3 on windows. See the wiki for more details.
-
-Pyserial - Obviously
-
-matplotlib - I used matplotlib's animate function to draw the graphs. It would definitely be faster to draw the plots using a tk canvas, but I'm also lazy.
+Despite the widespread use of hypodermic needles in medication delivery, they remain a source of pain and trauma in patients. This research introduces a novel approach to active medication delivery via microneedle arrays, utilizing the high swellability of Belousov-Zhabotinsky oscillating hydrogels. The patch's essential elements include an innovative hammock design, a sink, and an oscillating hydrogel that dynamically swells and shrinks. The hydrogel provides mechanical force, facilitating precise medication delivery through microneedles into skin. Several hydrogels were synthesized with various iron catalysts to test the effectiveness of particle sizes, from microgels to solid gels. A plexiglass prototype was constructed to measure the pressure generated. It was discovered that the solid gel generated the highest pressure at 8 mmHg and displaced the hammock by 0.625 cm. The system offers a potential long-term, reusable solution, or a disposable, short-term method, applicable in hospitals or for use by patients at home. The focus on oscillating hydrogels could revolutionize the field of patient-friendly drug delivery, benefiting the environment and the lives of millions of people. 
