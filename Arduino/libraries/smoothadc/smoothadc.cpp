@@ -141,4 +141,5 @@ void SmoothADC::dbgInfo(void)			// needs SCI initialized in sketch setup
 	}
 	Serial.println(dbgInfo);
 #endif
+
 }
